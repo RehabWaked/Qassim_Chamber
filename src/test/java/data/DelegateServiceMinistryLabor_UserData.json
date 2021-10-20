@@ -1,0 +1,10 @@
+[
+  {
+  "WorkRegion" : "السعودية",
+  "OfficeName" : "WOFSS",
+  "OfficeServiceNumber" : "222222222222222222222222222222",
+  "OTP" : "5555",
+  "RequestName" : "تفويض خدمات وزارة العمل",
+  "CancelText" : "We want to cancel this reason , Its a fault request."
+   }
+]

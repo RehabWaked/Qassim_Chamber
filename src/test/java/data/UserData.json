@@ -1,0 +1,23 @@
+[
+  {
+  "userID" : "1002060273",
+  "wrongUserID" : "2002060273 ",
+  "WrongUserID1" : "0" ,
+  "WrongUserID2" : "0000000000",
+  "password" : "s12345678",
+  "newPass" : "s123456789",
+  "wrongPassword" : "ss1234",
+  "ForgetPassOTP" : "5555",
+  "ForgetPassWrongOTP" : "4555",
+  "phoneNumber" : "0544444444",
+  "OTP" : "5",
+  "wrongOTP" : "4",
+  "AdminUsername" : "admin",
+  "AdminPassword" : "123456**",
+  "ValidMail" : "rwaked@worldofss.com",
+  "InValidMail" : "res...@aaaa",
+  "StopRequestReason" : "I want to stop this request",
+  "CancelReason" : "New Reason",
+  "RejectReasonText" : "I want to reject this request"
+   }
+]

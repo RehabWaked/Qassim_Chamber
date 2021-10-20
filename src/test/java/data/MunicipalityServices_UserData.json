@@ -1,0 +1,10 @@
+[
+  {
+  "RequestName" : "تفويض خدمات البلدية",
+  "AuthName" : "حسن محمد",
+  "IDNumber" : "1222111222",
+  "RegionName" : "منطقة القصيم",
+  "OTP" : "5555",
+  "InvalidOTP" : "1111"
+   }
+]

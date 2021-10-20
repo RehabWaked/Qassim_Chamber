@@ -1,0 +1,14 @@
+[
+  {
+  "RequestName" : "خطاب تعريف لطلب استقدام",
+  "SirIDNumber" : "1222111222",
+  "SirName" : "عبدالله محمد",
+  "Nationality" : "مصري",
+  "JobName" : "مهندس برمجيات",
+  "StartYear" : "2015",
+  "StartMonth" : "يناير",
+  "Salary" : "2000", 
+  "OTP" : "5555",
+  "InvalidOTP" : "1111"
+   }
+]

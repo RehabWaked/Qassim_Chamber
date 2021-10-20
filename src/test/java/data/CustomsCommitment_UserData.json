@@ -1,0 +1,13 @@
+[
+  {
+  "RequestName" : "تعهد جمركى",
+  "POBox" : "12221",
+  "PhoneNo" : "0112111111",
+  "FaxNo" : "2341722321", 
+  "IBANNo" : "219237232",
+  "ImportNo" : "23221",
+  "CustomsName" : "جمرك الرياض",
+  "OTP" : "5555",
+  "InvalidOTP" : "1111"
+   }
+]

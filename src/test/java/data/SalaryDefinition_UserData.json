@@ -1,0 +1,16 @@
+[
+  {
+  "SaudianRequestName" : "طلب تعريف راتب سعودى",
+  "NonSaudianRequestName" : "طلب تعريف راتب غير سعودي",
+  "Destination" : "شركة عالم النظم والبرامج",
+  "EmployeeName" : "رحاب واكد",
+  "SaudianIDNumber" : "1222111222",
+  "NonSaudianIDNumber" : "2222111222",
+  "IDSource" : "الرياض",
+  "JobName" : "مهندس برمجيات",
+  "TotalSalary" : "2000", 
+  "Nationality" : "مصري",
+  "OTP" : "5555",
+  "InvalidOTP" : "1111"
+   }
+]

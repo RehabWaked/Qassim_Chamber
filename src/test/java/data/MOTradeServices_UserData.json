@@ -1,0 +1,12 @@
+[
+  {
+  "RequestName" : "تفويض لخدمات وزارة التجارة",
+  "WorkRegion" : "الرياض",
+  "OfficeName" : "مكتب الرياض",
+  "OfficeServiceNumber" : "463213",
+  "SirName" : "رحاب واكد",
+  "SirIDNumber" : "1212121212",
+  "OTP" : "5555",
+  "InvalidOTP" : "1111"
+   }
+]

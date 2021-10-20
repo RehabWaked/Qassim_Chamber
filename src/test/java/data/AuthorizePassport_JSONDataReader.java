@@ -1,0 +1,60 @@
+package data;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
+
+public class AuthorizePassport_JSONDataReader {
+
+
+	public String WorkRegion, OfficeName, OfficeServiceNumber, BeneficiaryName, BeneficiaryIdNumber, OTP, RequestName, CancelText;
+
+	public void jsonReader_FillData() throws FileNotFoundException, IOException, ParseException {
+
+		String filePath = System.getProperty("user.dir")+"/src/test/java/data/AutorizePassport_UserData.json";
+		File srcFile = new File(filePath);
+		JSONParser parser = new JSONParser();
+		JSONArray jArray = (JSONArray) parser.parse(new FileReader(srcFile));
+		for (Object jsonObj : jArray) {
+
+			JSONObject user =  (JSONObject) jsonObj;
+			
+			WorkRegion = (String) user.get("WorkRegion");
+			System.out.println(WorkRegion);
+					
+			OfficeName = (String) user.get("OfficeName");
+			System.out.println(OfficeName);
+			
+			OfficeServiceNumber = (String) user.get("OfficeServiceNumber");
+			System.out.println(OfficeServiceNumber);
+			
+			BeneficiaryName = (String) user.get("BeneficiaryName");
+			System.out.println(BeneficiaryName);
+			
+			BeneficiaryIdNumber = (String) user.get("BeneficiaryIdNumber");
+			System.out.println(BeneficiaryIdNumber);
+			
+			OTP = (String) user.get("OTP");
+			System.out.println(OTP);
+			
+			RequestName = (String) user.get("RequestName");
+			System.out.println(RequestName);
+			
+			CancelText = (String) user.get("CancelText");
+			System.out.println(CancelText);
+			
+		}
+
+	}
+
+
+
+
+
+}

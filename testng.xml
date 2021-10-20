@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="tests.DelegationToTrafficServicesRequestTest"/>
+      <class name="tests.CivilDefenseServicesRequestTest"/>
+      <class name="tests.FoodAndDrugsOrgRequestTest"/>
+      <class name="tests.DelegationToMOfTradeServicesRequestTest"/>
+      <class name="tests.RegisterToUseElectronicLicensingServicesFromAutorityTest"/>
+      <class name="tests.LoginTest"/>
+      <class name="tests.NonSaudianSalaryRequestTest"/>
+      <class name="tests.CloudComputingRequestTest"/>
+      <class name="tests.OpenTextRequestTest"/>
+      <class name="tests.ExperienceCertificateRequestTest"/>
+      <class name="tests.AuthorizePassportServicesTest"/>
+      <class name="tests.SaudianSalaryRequestTest"/>
+      <class name="tests.IdenticationCertificateTest"/>
+      <class name="tests.AuthorizationToExtractSub_CommercialRegisterForSoleProprietorshipCompanyRequestTest"/>
+      <class name="tests.TravelSceneOfTheKingdomOfThailandRequestTestTest"/>
+      <class name="tests.PledgeOfConductAndMoralsRequestTest"/>
+      <class name="tests.AttendanceGuaranteeRequestTest"/>
+      <class name="tests.DelegationServiceMinistryLaborTest"/>
+      <class name="tests.CompanyRepresentativeDataRegisterOnSaudiElectricSiteTest"/>
+      <class name="tests.AuthorizationForPoliceReviewTest"/>
+      <class name="tests.HonestyUnViolationPromiseRequestTest"/>
+      <class name="tests.ChangePasswordTest"/>
+      <class name="tests.NonMembers_OpenFileRequestTest"/>
+      <class name="tests.ChangePhoneNumberTest"/>
+      <class name="tests.VehicleDrivingAuthorizationRequestTest"/>
+      <class name="tests.MinistryOfIntriorAffairsTest"/>
+      <class name="tests.CompetitionsRequestTest"/>
+      <class name="tests.WorkContractRequestTest"/>
+      <class name="tests.DelegatingRepresentativeToSecretariatTest"/>
+      <class name="tests.MunicipalityServicesRequestTest"/>
+      <class name="tests.CustomsCommitmentRequestTest"/>
+      <class name="tests.AdmissionLetterRequestTest"/>
+      <class name="tests.PromotionalOffersRequestTest"/>
+      <class name="tests.ForgetPasswordTest"/>
+      <class name="tests.NICScopeModelRequestTest"/>
+      <class name="tests.ReturnVisaExtensionRequestTest"/>
+      <class name="tests.ExtendVisaFromPassportsRequestTest"/>
+      <class name="tests.ForeignAffairsRequestTest"/>
+      <class name="tests.OtherServicesTest"/>
+      <class name="tests.TravelSceneOfTheKingdomOfThailandRequestTest"/>
+      <class name="tests.EmbassyVisaExtensionLetterRequestTest"/>
+      <class name="tests.AdminRequestSettingsTest"/>
+      <class name="tests.ReExportrequestTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,13 @@
+[
+  {
+  "RequestName" : "تفويض لخدمات المرور",
+  "WorkRegion" : "الرياض",
+  "OfficeName" : "مكتب الرياض",
+  "OfficeServiceNumber" : "463213",
+  "SirName" : "رحاب واكد",
+  "SirIDNumber" : "1212121212",
+  "Nationality" : "مصري",
+  "OTP" : "5555",
+  "InvalidOTP" : "1111"
+   }
+]

@@ -1,0 +1,25 @@
+[
+  {
+  "ExpoeterPhone" : "0512345678",
+  "ExporterZipCode" : "5555",
+  "ExporterFax" : "0123456789",
+  "ExporterPBox" : "0123456789",
+  "ImporterName" : "Test",
+  "ImporterPBox" : "0123456789",
+  "ImporterCity" : "Cairo",
+  "ImporterFax" : "0123456789",
+  "GoodsType" : "Food Cook",
+  "GoodsOrigin" : "Egypt",
+  "GoodsInformation" : "Food cook test",
+  "GoodsQuantity" : "3",
+  "CertificateOriginNumber" : "100",
+  "GoodsValue" : "3",
+  "GoodsValueDollar" : "3",
+  "BillNumber" : "3",
+  "OTP" : "5555",
+  "OTPInValid" : "4444",
+  "CancelText" : "Test",
+  "RequestName" : "طلب اعادة التصدير"
+  
+   }
+]

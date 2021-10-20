@@ -1,0 +1,9 @@
+[
+  {
+  "OpenRequestText" : "Hello This is new text to be approved by your side and to be checked from our automation script , Thanks "  ,
+  "OTP" : "5555",
+  "RequestName" : "طلب مفتوح نص",
+  "Notes" : "Notes",
+  "CancelText" : "We want to cancel this reason , Its a fault request."
+   }
+]

@@ -1,0 +1,11 @@
+[
+  {
+  "RequestName" : "نموذج نطاق NIC",
+  "BandName" : "www.NewSite.com",
+  "AdminName" : "محمد عبدالرحمن",
+  "AdminMobile" : "0522222222",
+  "AdminMail" : "rehab.waked@gmail.com",
+  "OTP" : "5555",
+  "InvalidOTP" : "1111"
+   }
+]

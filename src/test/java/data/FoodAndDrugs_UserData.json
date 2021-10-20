@@ -1,0 +1,21 @@
+[
+  {
+  "RequestName" : "تفويض للهيئة العامة للغذاء و الدواء",
+  "Name" : "رحاب واكد",
+  "JobTitle" : "مهندس برمجيات",
+  "Email" : "rwaked@worldofss.com",
+  "IDNumber" : "1222111222",
+  "TelNo" : "0122222222",
+  "MobNo" : "0522222222",
+  "Address" : "الرياض - المملكة العربية السعودية",
+  "BuildNo" : "30", 
+  "DistrictName" : "حي الرياض",
+  "StreetName" : "الحرية",
+  "CityName" : "مدينة الاحياء",
+  "PostalCode" : "8625624242",
+  "UnitNo" : "22",
+  "AdditionalMobNo" : "0528667637",
+  "OTP" : "5555",
+  "InvalidOTP" : "1111"
+   }
+]

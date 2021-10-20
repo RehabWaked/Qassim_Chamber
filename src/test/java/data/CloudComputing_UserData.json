@@ -1,0 +1,23 @@
+[
+  {
+  "RequestName" : "تسجيل لتقديم خدمات الحوسبة السحابية",
+  "SirName" : "عبدالله محمد",
+  "IDNumber" : "1222111222",
+  "JobTitle" : "مهندس برمجيات",
+  "IDIssuePlace" : "مصر",
+  "MobileNo" : "0562848392",
+  "Email" : "rehab.waked@gmail.com",
+  "POBox" : "12221",
+  "PostalCode" : "11311",
+  "City" : "القاهرة",
+  "Street" : "شارع التسعين",
+  "District" : "حي الياسمين",
+  "BuildingNo" : "60",
+  "AppartNo" : "10",
+  "StartYear" : "2015",
+  "StartMonth" : "يناير",
+  "Salary" : "2000", 
+  "OTP" : "5555",
+  "InvalidOTP" : "1111"
+   }
+]

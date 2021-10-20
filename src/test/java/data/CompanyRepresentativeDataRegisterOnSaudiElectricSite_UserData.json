@@ -1,0 +1,20 @@
+[
+  {
+  "BusinessPartnerNumber" : "11",
+  "Title" : "Engineer",
+  "FirstName" : "Sabreen",
+  "LastName" : "Khaled",
+  "Position" : "QC Test Engineer",
+  "Language" : "Arabic",
+  "PhoneNumber" : "0111111111",
+  "MobileNumber" : "0555555555",
+  "Fax" : "1111111111",
+  "Email" : "sabreenkhaled02@gmail.com",
+  "Country" : "Egypt",
+  "AuthorizedName" : "Mohamed",
+  "AuthorizedPosition"  :"Manager",
+  "OTP" : "5555",
+  "RequestName" : "بيانات ممثل الشركة للتسجيل في موقع",
+  "CancelText" : "We want to cancel this reason , Its a fault request."
+   }
+]

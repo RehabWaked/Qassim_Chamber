@@ -1,0 +1,14 @@
+[
+  {
+  "RequestName" : "طلب تصريح عروض ترويجية",
+  "PromoName" : "عرض تسويقي لمنتجات العثيم",
+  "Location" : "الرياض",
+  "Notes" : "New Note", 
+  "Reason" : "New Reason",
+  "Year" : "2022",
+  "StartMonth" : "يناير",
+  "EndMonth" : "مارس",
+  "OTP" : "5555",
+  "InvalidOTP" : "1111"
+   }
+]
